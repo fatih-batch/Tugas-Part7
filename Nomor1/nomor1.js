@@ -1,4 +1,4 @@
-function domino(angka) {
+function domino(kartu, dek) {
     
 }
 
